@@ -2,7 +2,8 @@
 
 - 🔭 &nbsp;I’m currently working on Chatbots & NLP 
 - 🌱 &nbsp;I’m currently learning about Microservices & Rest APIs
-- 💬 &nbsp;Ask me about anything related to R/Python or Data Science & Machine Learning
+- 💼 &nbsp;My current side gig is about Crypto & Deep Reinforcement Learning :wink:
+- 💬 &nbsp;Ask me about anything related to R/Python or Data Science, Machine Learning & Business Intelligence
 - ⚡ &nbsp;Fun fact: I'm a Otaku
 
 <!--
