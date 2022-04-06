@@ -4,7 +4,7 @@
 - 🌱 &nbsp;I’m currently learning about Microservices & Rest APIs
 - 💼 &nbsp;My current side gig is about Crypto & Deep Reinforcement Learning :wink:
 - 💬 &nbsp;Ask me about anything related to R/Python or Data Science, Machine Learning & Business Intelligence
-- ⚡ &nbsp;Fun fact: 1- I'm a Otaku 2- Familiy & friends call me Sia!
+- ⚡ &nbsp;Fun fact: 1. I'm a Otaku 2. Familiy & friends call me Sia!
 
 <!--
 **BabakBar/BabakBar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
