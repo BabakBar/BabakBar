@@ -1,4 +1,4 @@
-### Hey there <a href="https://babakbar.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hey there <a href="https://babakbar.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"></a>
 
 - 🔭 &nbsp;I’m currently working on Chatbots & NLP 
 - 🌱 &nbsp;I’m currently learning about Microservices, Rest APIs & Flask
