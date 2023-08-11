@@ -1,9 +1,9 @@
 ### Hey there <a href="https://babakbar.github.io/"></a>
 
-- 🔭 &nbsp;I’m currently working on Chatbots & NLP 
-- 🌱 &nbsp;I’m currently learning about Microservices, Rest APIs & Flask
+- 🔭 &nbsp;I’m currently working on Data Science projects.
+- 🌱 &nbsp;I’m currently learning about C# & Unity.
 - 💼 &nbsp;My current side gig is about Digital Goods, Crypto & Deep Reinforcement Learning :wink:
-- 💬 &nbsp;Ask me about anything related to R/Python or Data Science, Machine Learning & Business Intelligence
+- 💬 &nbsp;Ask me about anything related to R/Python or Data Science, Machine Learning & Business Intelligence.
 - ⚡ &nbsp;Fun facts: 1. I'm a Otaku 2. Familiy & friends call me Sia!
 
 🔗 &nbsp;**Connect with me**
