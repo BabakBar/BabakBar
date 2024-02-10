@@ -1,9 +1,9 @@
 ### Hey there <a href="https://babakbar.github.io/"></a>
 
-- 🔭 &nbsp;I’m currently working on Deep Learning projects.
-- 🌱 &nbsp;I’m currently learning about C# & .Net Frameworks.
-- 💼 &nbsp;My current side gig is about use of computer vision in manufacturing industries :wink:
-- 💬 &nbsp;Ask me about anything related to R/Python or Data Science, Machine Learning & Business Intelligence.
+- 🔭 &nbsp;I’m currently working on Industrial AI & Deep learning.
+- 🌱 &nbsp;I’m currently learning about C# & .Net Frameworks for web & desktop applications.
+- 💼 &nbsp;My current side gig is about the use of computer vision in manufacturing industries :wink:
+- 💬 &nbsp;Ask me about anything related to AI, R/Python or Data Science, Machine Learning & Business Intelligence.
 - ⚡ &nbsp;Fun facts: 1. I'm a Otaku 2. Familiy & friends call me Sia!
 
 🔗 &nbsp;**Connect with me**
