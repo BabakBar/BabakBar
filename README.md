@@ -1,8 +1,8 @@
 ### Hey there <a href="https://babakbar.github.io/"></a>
 
-- 🔭 &nbsp;I’m currently working on Data Engineering & AWS.
-- 💼 &nbsp;My current side gig is about the use of AI in marketing decision-making :wink:
-- 💬 &nbsp;Ask me about anything related to AI, R/Python or Data Science, Machine Learning & Business Intelligence.
+- 🔭 &nbsp;I’m currently working on AI, Cloud & AWS.
+- 💼 &nbsp;My current side gig is about the use of AI in manufacturing env :wink:
+- 💬 &nbsp;Ask me about anything related to AI, Cloud & Business Intelligence.
 - ⚡ &nbsp;Fun facts: 1. I'm a Otaku 2. Familiy & friends call me Sia!
 
 🔗 &nbsp;**Connect with me**
