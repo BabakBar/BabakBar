@@ -2,7 +2,6 @@
 
 - 🔭 &nbsp;I’m currently working on AI, Cloud & AWS.
 - 💼 &nbsp;My current side gig is about the use of AI in manufacturing env :wink:
-- 💬 &nbsp;Ask me about anything related to AI, Cloud & Business Intelligence.
 - ⚡ &nbsp;Fun facts: 1. I'm a Otaku 2. Familiy & friends call me Sia!
 
 🔗 &nbsp;**Connect with me**
