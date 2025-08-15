@@ -1,6 +1,6 @@
 ### Hey there <a href="https://babakbar.github.io/"></a>
 
-- 🔭 &nbsp;I’m currently working on AI, Cloud & AWS.
+- 🔭 &nbsp;I’m currently working on AI side projects, Cloud (AWS/Azure).
 - 💼 &nbsp;My current side gig is about the use of AI in manufacturing env :wink:
 - ⚡ &nbsp;Fun facts: 1. I'm a Otaku 2. Familiy & friends call me Sia!
 
